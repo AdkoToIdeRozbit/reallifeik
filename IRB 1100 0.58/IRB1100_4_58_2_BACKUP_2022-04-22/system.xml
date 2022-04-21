@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SystemProperties>
+  <SystemName>IRB1100_4_58_2</SystemName>
+  <SerialNo>VIRTUAL_CONTROLLER</SerialNo>
+  <UsedMedia>
+    <Media path="C:/Users/adria/AppData/Local/ABB/RobotWare/RobotControl_7.5.2" name="RobotControl" version="7.5.2+167" versionName="7.5.2"/>
+    <Media path="C:/Users/adria/AppData/Local/ABB/RobotWare/RobotOS_4.1.0" name="RobotOS" version="4.1.0+0" versionName="4.1.0"/>
+    <Media path="C:/Users/adria/AppData/Local/ABB/RobotWare/Robots_1.5.1" name="Robots" version="1.5.1+32" versionName="1.5.1"/>
+  </UsedMedia>
+  <ControlModule>
+    <Option descr="RobotControl Base"/>
+    <Option descr="English"/>
+    <Option descr="3120-1 FlexPendant Limited App Package"/>
+    <Option descr="3120-2 FlexPendant Essential App Package"/>
+    <Option descr="3151-1 FlexPendant Program Package"/>
+  </ControlModule>
+  <DriveModule>
+    <Name>Robot1</Name>
+    <Option descr="C30/C90XT"/>
+    <Option descr="Axis Calibration"/>
+  </DriveModule>
+  <AdditionalOption>
+    <Name>Robots</Name>
+    <Option descr="IRB 1100-4/0.58"/>
+  </AdditionalOption>
+</SystemProperties>
